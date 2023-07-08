@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+      <meta charset="utf-8">
+      <title>S.C.Botafofo</title>
+      <link rel="stylesheet" type="text/css" href="styles.loja.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    </head>
+
+    <body>
+
+            <div class="login">
+              <ul>
+                <li><a href="file:///C:/Users/User/OneDrive/%C3%81rea%20de%20Trabalho/Loja%20Online/p%C3%A1gina.cadastro.html" target="_blank">Apoie <span class="icone-assine-ja"><i class="fas fa-pencil-alt"></i></span></a></li>
+                <li>|</li>
+                <li><a href="file:///C:/Users/User/OneDrive/%C3%81rea%20de%20Trabalho/Loja%20Online/p%C3%A1gina.cadastro.html" target="_blank">Carrinho <span class="icone-carrinho"><i class="fas fa-shopping-cart"></i></span></a></li>
+                <li>|</li>
+                <li><a href="file:///C:/Users/User/OneDrive/%C3%81rea%20de%20Trabalho/Loja%20Online/p%C3%A1gina.cadastro.html" target="_blank">Entrar <span class="icone-login"><i class="fas fa-lock"></i></span></a></li>
+              </ul>
+            </div>
+
+      <header>
+        <h1>S.C. Botafofo</h1>
+        </header>
+
+            <div class="navegação">
+              <ul>
+                <li><a href="#">Home <i class="fas fa-home"></i></a></li>
+                <li>|</li>
+                <li><a href="#">Notícias <i class="fas fa-newspaper"></i></a></li>
+                <li>|</li>
+                <li><a href="https://www.instagram.com/scbotafofo/?igshid=YmMyMTA2M2Y%3D" target="_blank">Entre em contato  <i class="fas fa-envelope"></i></a></li>
+              </ul>
+            </div>
+
+
+      <section id="destaques">
+
+        <h2>Destaques</h2>
+
+        <div class="produto">
+          <img src="C:\Users\User\OneDrive\Área de Trabalho\Loja Online\img\camiseta.jpg" alt="Descrição da Imagem" width="300" height="200" class="imagem-estilizada">
+          <h3>Manto botafofense</h3>
+          <p>A nova camiseta do Botafofo agrega estilo, conforto e história.</p>
+          <span class="preco">R$99,99</span>
+          <a href="file:///C:/Users/User/OneDrive/%C3%81rea%20de%20Trabalho/Loja%20Online/p%C3%A1gina.cadastro.html" target="_blank"><button>Adicionar ao Carrinho</button></a>
+        </div>
+
+        <div class="produto">
+          <img src="C:\Users\User\OneDrive\Área de Trabalho\Loja Online\img\caneca.jpg" alt="Produto 2">
+          <h3>Caneca botafofense</h3>
+          <p>Uma caneca que carrega o estilo de grandes integrantes do grupo.</p>
+          <span class="preco">R$99,99</span>
+          <a href="file:///C:/Users/User/OneDrive/%C3%81rea%20de%20Trabalho/Loja%20Online/p%C3%A1gina.cadastro.html" target="_blank"><button>Adicionar ao Carrinho</button></a>
+        </div>
+
+      </section>
+
+      <hr>
+
+              <div class="conteúdo">
+                <article>
+                <h2>O sonho continua</h2>
+
+                <p>Na Universidade de São Paulo (USP), existia um time de entidade estudantil chamado Botafofo. Eles eram conhecidos por sua paixão pelo esporte e espírito de equipe. O Botafofo é composto por estudantes do curso de marketing, unidos por sua dedicação em competições e eventos universitários.</p>
+
+                
+
+                <p>Os botafofenses estavam animados e determinados a participarem do campeonato Intermarketing, um evento que reuniria diversas modalidades esportivas entre as equipes universitárias. Eles treinaram arduamente, aprimorando suas habilidades em cada modalidade em que competiriam.</p>
+
+                <p>No entanto, pouco antes do campeonato começar, uma circunstância inesperada ocorreu: o evento Intermarketing foi adiado. A organização decidiu adiar o campeonato devido a imprevistos externos.</p>
+
+                <p>Mesmo com o adiamento para o mês de agosto, a família botafofense aguarda ansiosamente a volta da competição, a fim de 
+                conquistar a sua chegada às quartas, quiçá à semi-finais.</p>
+
+                <button><a href="https://www.instagram.com/scbotafofo/?igshid=YmMyMTA2M2Y%3D" target="_blank">Siga a equipe no instagram</a></button>
+
+              </article>
+              </div>
+
+      <hr>
+
+              <div class="notícias">
+                <h2>Outras notícias</h2>
+                <ul>
+                  <li><a href="https://g1.globo.com/economia/noticia/2023/07/08/ipva-iptu-cesta-basica-e-mais-como-a-reforma-da-tributaria-muda-sua-vida.ghtml" target="_blank">IPVA, IPTU, cesta básica e mais: como a reforma da tributária muda sua vida <i class="fas fa-newspaper"></i></a> </li>
+                  <li><a href="https://ge.globo.com/tenis/noticia/2023/07/08/bia-haddad-vence-cirstea-e-esta-nas-oitavas-de-final-de-wimbledon.ghtml" target="_blank">Bia Haddad vence Cirstea e está nas oitavas de final de Wimbledon <i class="fas fa-newspaper"></i></a> </li>
+                </ul>
+                
+              </div>
+
+      <footer>
+        <p>&copy; 2023 Minha Loja Online. Todos os direitos reservados.</p>
+      </footer>
+    </body>
+</html>
